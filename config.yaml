@@ -117,26 +117,26 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/hero.svg
+    title: "Steph."
+    subtitle: "I break things to improve them"
+    content: "QA Engineer"
+    image: /images/SCP_Profile_Pic.png #Edit in ./static/images
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://docs.google.com/document/d/1rg_5Up3YU3FsXVRxBWYkSEJ_FoxL8VMpnFj_a023gqg/edit?usp=sharing"
       download: true
       newPage: false
     socialLinks:
-      fontAwesomeIcons:
+      fontAwesomeIcons: #Already included with original theme
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/stephaniecp
+        - icon: fab fa-linkedin-in
+          url: https://www.linkedin.com/in/stephaniecaronpare/
+      # customIcons:
+      #   - icon: /fav.png
+      #     url: "https://example.com"
 
   # About
   about:
@@ -151,55 +151,62 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
+        - Selenium
+        - Jest
+        - TypeScript
+        - Postman
         - "HTML"
         - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - Jira
+        - TestRail
+        - qTest
+        - Git
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
+      - job: "QA Analyst"
+        company: "Harmonic Northwest "
         companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+        date: "Jan 2021 - present"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "• Conducting manual QA on several web projects including <a href=https://gamerdays.intel.com/>Intel Gamer Days</a>, <a href=https://fortgeorgebrewery.com/>Fort George Brewery</a> and <a href=https://pacifictrail.com/>Pacific Trail</a> (apparel brand owned by Columbia Sportswear) and performing ad hoc/exploratory testing across many devices.</br> 
+• Check in with the development team to define the scope of testing for each project and ensure adequate test coverage.</br>
+• Filing bugs in various ticket tracking software (Jira, Shortcut, Basecamp) and maintaining tickets throughout their life cycle to ensure fixes are working and to prevent bugs from affecting users."
 
-      - job: "Software Developer"
-        company: "Amazon"
+      - job: "QA Analyst"
+        company: "Freelance"
         companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+        date: "Oct 2019 - present"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          TO BE ADDED
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Conducted manual QA on various projects to ensure the client’s sites and apps are working as expected between updates and before launches.
+          - Executed test cases and performed ad hoc/exploratory styles testing, depending on the client’s needs, across testing devices (Android phone, iPhone, iPad, Windows and Mac laptop) for complete test coverage.  
+          - Projects included some continuity testing work on the Airbnb apps via Plus QA through April 2020 and a few other contracts for smaller companies, including one via Harmonic Northwest (current employer). 
 
-      - job: "Junior Software Developer"
-        company: "Apple"
+      - job: "QA Lead / QA Analyst"
+        company: "Plus QA"
         companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+        date: "Apr 2019 - Oct 2019"
         info:
           enable: false
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          TO BE ADDED
 
           - Lead backend developer for a product.
           - Created a frontend design for a product.
@@ -209,7 +216,7 @@ params:
         companyUrl: "https://example.com"
         date: "June 2017 - Nov 2019"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
