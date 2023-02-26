@@ -1,0 +1,12 @@
+baseURL: 'https://stephaniecp.github.io/portfolio/'
+languageCode: en-us
+title: "Steph's Portfolio"
+
+outputs:
+  home:
+    - 'HTML'
+    - 'RSS'
+    - 'JSON'
+  page:
+    - 'HTML'
+    - 'RSS'
