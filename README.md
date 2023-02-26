@@ -15,6 +15,7 @@
 * GitHub: https://github.com/gurusabarish/hugo-profile
 * GitHub Wiki: https://github.com/gurusabarish/hugo-profile/wiki
 * Demo site: https://hugo-profile.netlify.app/
+* My GitHUb fork for this theme: https://github.com/stephaniecp/hugo-profile-theme
 
 ## About Hugo
 ### Hugo (General) Documentation
