@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://stephaniecp.github.io/portfolio/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Steph's Portfolio"
 theme: hugo-profile-theme
 
 outputs:
@@ -103,7 +103,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    brandName: "Stephanie Caron Pare" # Brand name for the brand | default is the title variable
     disableSearch: false
     menus:
       disableAbout: false
@@ -169,7 +169,7 @@ params:
     items:
       - job: "QA Analyst"
         company: "Harmonic Northwest "
-        companyUrl: "https://example.com"
+        companyUrl: "https://harmonicnw.com/"
         date: "Jan 2021 - present"
         featuredLink:
           enable: false
@@ -196,10 +196,25 @@ params:
           - Executed test cases and performed ad hoc/exploratory styles testing, depending on the client’s needs, across testing devices (Android phone, iPhone, iPad, Windows and Mac laptop) for complete test coverage.  
           - Projects included some continuity testing work on the Airbnb apps via Plus QA through April 2020 and a few other contracts for smaller companies, including one via Harmonic Northwest (current employer). 
 
-      - job: "QA Lead / QA Analyst"
+      - job: "QA Lead"
+        job: "QA Analyst" # SCP added
         company: "Plus QA"
         companyUrl: "https://example.com"
         date: "Apr 2019 - Oct 2019"
+        info:
+          enable: true
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+        content: |
+          TO BE ADDED
+
+          - Lead backend developer for a product.
+          - Created a frontend design for a product. 
+      - job: "QA Analyst" # SCP added
+        company: "Other job"
+        companyUrl: "https://example.com"
+        date: "Apr 2022 - Oct 2022"
         info:
           enable: false
         featuredLink:
@@ -208,8 +223,8 @@ params:
         content: |
           TO BE ADDED
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Li 1.
+          - Li 2.
 
       - job: "UI/UX Designer"
         company: "Netflix"
@@ -229,6 +244,21 @@ params:
         companyUrl: "https://example.com"
         date: "Feb 2016 - Mar 2017"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+
+      #  - job: "QA Analyst"
+      #   company: "Other job"
+      #   companyUrl: "https://example.com"
+      #   date: "Apr 2022 - Oct 2022"
+      #   info:
+      #     enable: false
+      #   featuredLink:
+      #     enable: false
+      #     url: "https://example.com"
+      #   content: |
+      #     TO BE ADDED
+
+      #     - Li 1.
+      #     - Li 2.
 
   # Education
   education:
