@@ -1,3 +1,4 @@
 # Steph's custom stuff below
 themes/*
+!themes/README.md
 .hugo_build.lock

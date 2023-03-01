@@ -1,0 +1,1 @@
+This is the theme's directory that Hugo look for themes in. 

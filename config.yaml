@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app" # SCP to edit?- "https://stephaniecp.github.io/portfolio/
+baseURL: "https://hugo-profile.netlify.app" # SCP to edit?- "https://stephaniecp.github.io/portfolio/"
 languageCode: "en-us"
 title: "Hugo Profile" # SCP to edit?- "Steph's Portfolio"
 theme: hugo-profile-theme
@@ -167,8 +167,9 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "QA Analyst"
-        company: "Harmonic Northwest "
+      - job: "Job ONE"
+        company: "Company Test" # SCP Should be moved to top of section later
+        
         companyUrl: "https://harmonicnw.com/"
         date: "Jan 2021 - present"
         featuredLink:
@@ -178,6 +179,9 @@ params:
         content: "• Conducting manual QA on several web projects including <a href=https://gamerdays.intel.com/>Intel Gamer Days</a>, <a href=https://fortgeorgebrewery.com/>Fort George Brewery</a> and <a href=https://pacifictrail.com/>Pacific Trail</a> (apparel brand owned by Columbia Sportswear) and performing ad hoc/exploratory testing across many devices.</br> 
 • Check in with the development team to define the scope of testing for each project and ensure adequate test coverage.</br>
 • Filing bugs in various ticket tracking software (Jira, Shortcut, Basecamp) and maintaining tickets throughout their life cycle to ensure fixes are working and to prevent bugs from affecting users."
+        job2: "Job TWO"
+        date2: "testing random dates"
+        content2: "Hello world"
 
       - job: "QA Analyst"
         company: "Freelance"
