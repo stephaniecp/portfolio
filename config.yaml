@@ -1,6 +1,6 @@
-baseURL: "https://stephaniecp.github.io/portfolio/"
+baseURL: "https://hugo-profile.netlify.app" # SCP to edit?- "https://stephaniecp.github.io/portfolio/
 languageCode: "en-us"
-title: "Steph's Portfolio"
+title: "Hugo Profile" # SCP to edit?- "Steph's Portfolio"
 theme: hugo-profile-theme
 
 outputs:
@@ -211,20 +211,21 @@ params:
 
           - Lead backend developer for a product.
           - Created a frontend design for a product. 
-      - job: "QA Analyst" # SCP added
-        company: "Other job"
-        companyUrl: "https://example.com"
-        date: "Apr 2022 - Oct 2022"
-        info:
-          enable: false
-        featuredLink:
-          enable: false
-          url: "https://example.com"
-        content: |
-          TO BE ADDED
+          
+      # - job: "QA Analyst" # SCP added
+      #   company: "Other job"
+      #   companyUrl: "https://example.com"
+      #   date: "Apr 2022 - Oct 2022"
+      #   info:
+      #     enable: false
+      #   featuredLink:
+      #     enable: false
+      #     url: "https://example.com"
+      #   content: |
+      #     TO BE ADDED
 
-          - Li 1.
-          - Li 2.
+      #     - Li 1.
+      #     - Li 2.
 
       - job: "UI/UX Designer"
         company: "Netflix"
