@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown syntax on Steph&#39;s Profile</title>
+    <link>https://hugo-profile.netlify.app/tags/markdown-syntax/</link>
+    <description>Recent content in Markdown syntax on Steph&#39;s Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Render Math With Mathjax</title>
+      <link>https://hugo-profile.netlify.app/blogs/math/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/blogs/math/</guid>
+      <description>Mathjax Math equations can be rendered using Mathjax syntax with AMS symbol support.
+Optionally enable this on a per-page basis by adding mathjax: true to your frontmatter.
+Then, use $$ ... $$ on a line by itself to render a block equation:
+$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$
+The raw version is:
+$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$ Write in-line equations with \\( .</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax</title>
+      <link>https://hugo-profile.netlify.app/blogs/markdown-syntax/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/blogs/markdown-syntax/</guid>
+      <description>Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga.</description>
+    </item>
+    
+  </channel>
+</rss>
