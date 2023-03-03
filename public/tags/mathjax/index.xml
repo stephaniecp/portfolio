@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathjax on Steph&#39;s Profile</title>
-    <link>https://hugo-profile.netlify.app/tags/mathjax/</link>
+    <link>https://stephaniecp.github.io/portfolio/tags/mathjax/</link>
     <description>Recent content in Mathjax on Steph&#39;s Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/mathjax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://stephaniecp.github.io/portfolio/tags/mathjax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Render Math With Mathjax</title>
-      <link>https://hugo-profile.netlify.app/blogs/math/</link>
+      <link>https://stephaniecp.github.io/portfolio/blogs/math/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/blogs/math/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/blogs/math/</guid>
       <description>Mathjax Math equations can be rendered using Mathjax syntax with AMS symbol support.
 Optionally enable this on a per-page basis by adding mathjax: true to your frontmatter.
 Then, use $$ ... $$ on a line by itself to render a block equation:

@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Steph&#39;s Profile</title>
-    <link>https://hugo-profile.netlify.app/tags/</link>
+    <link>https://stephaniecp.github.io/portfolio/tags/</link>
     <description>Recent content in Tags on Steph&#39;s Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://stephaniecp.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>example</title>
-      <link>https://hugo-profile.netlify.app/tags/example/</link>
+      <link>https://stephaniecp.github.io/portfolio/tags/example/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/tags/example/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown syntax</title>
-      <link>https://hugo-profile.netlify.app/tags/markdown-syntax/</link>
+      <link>https://stephaniecp.github.io/portfolio/tags/markdown-syntax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/tags/markdown-syntax/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/tags/markdown-syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathjax</title>
-      <link>https://hugo-profile.netlify.app/tags/mathjax/</link>
+      <link>https://stephaniecp.github.io/portfolio/tags/mathjax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/tags/mathjax/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/tags/mathjax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sample</title>
-      <link>https://hugo-profile.netlify.app/tags/sample/</link>
+      <link>https://stephaniecp.github.io/portfolio/tags/sample/</link>
       <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/tags/sample/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/tags/sample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emoji support</title>
-      <link>https://hugo-profile.netlify.app/tags/emoji-support/</link>
+      <link>https://stephaniecp.github.io/portfolio/tags/emoji-support/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/tags/emoji-support/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/tags/emoji-support/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Placeholder text</title>
-      <link>https://hugo-profile.netlify.app/tags/placeholder-text/</link>
+      <link>https://stephaniecp.github.io/portfolio/tags/placeholder-text/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/tags/placeholder-text/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/tags/placeholder-text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rich content</title>
-      <link>https://hugo-profile.netlify.app/tags/rich-content/</link>
+      <link>https://stephaniecp.github.io/portfolio/tags/rich-content/</link>
       <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/tags/rich-content/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/tags/rich-content/</guid>
       <description></description>
     </item>
     

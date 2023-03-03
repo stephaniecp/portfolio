@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app" # SCP to edit?- "https://stephaniecp.github.io/portfolio/"
+baseURL: "https://stephaniecp.github.io/portfolio/" # SCP to edit?- "https://stephaniecp.github.io/portfolio/"
 languageCode: "en-us"
 title: "Steph's Profile" # SCP to edit?- "Steph's Portfolio"
 theme: hugo-profile-theme

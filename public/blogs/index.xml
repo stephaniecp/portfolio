@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Steph&#39;s Profile</title>
-    <link>https://hugo-profile.netlify.app/blogs/</link>
+    <link>https://stephaniecp.github.io/portfolio/blogs/</link>
     <description>Recent content in Blogs on Steph&#39;s Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://stephaniecp.github.io/portfolio/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Render Math With Mathjax</title>
-      <link>https://hugo-profile.netlify.app/blogs/math/</link>
+      <link>https://stephaniecp.github.io/portfolio/blogs/math/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/blogs/math/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/blogs/math/</guid>
       <description>Mathjax Math equations can be rendered using Mathjax syntax with AMS symbol support.
 Optionally enable this on a per-page basis by adding mathjax: true to your frontmatter.
 Then, use $$ ... $$ on a line by itself to render a block equation:
@@ -23,19 +23,19 @@ $$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &
     
     <item>
       <title>Markdown Syntax</title>
-      <link>https://hugo-profile.netlify.app/blogs/markdown-syntax/</link>
+      <link>https://stephaniecp.github.io/portfolio/blogs/markdown-syntax/</link>
       <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/blogs/markdown-syntax/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/blogs/markdown-syntax/</guid>
       <description>Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga.</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://hugo-profile.netlify.app/blogs/emoji-support/</link>
+      <link>https://stephaniecp.github.io/portfolio/blogs/emoji-support/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/blogs/emoji-support/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/blogs/emoji-support/</guid>
       <description>Emoji can be enabled in a Hugo project in a number of ways. :zap:
 Emoji Support The emojify function can be called directly in templates or Inline Shortcodes.
 To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.
@@ -45,10 +45,10 @@ N.B. The above steps enable Unicode Standard emoji characters and sequences in H
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://hugo-profile.netlify.app/blogs/placeholder-text/</link>
+      <link>https://stephaniecp.github.io/portfolio/blogs/placeholder-text/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/blogs/placeholder-text/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/blogs/placeholder-text/</guid>
       <description>Lorem est tota propiore conpellat pectoribus de pectora summo.
 Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude Rursus nulli murmur; hastile inridet ut ab gravi sententia!</description>
@@ -56,10 +56,10 @@ Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos
     
     <item>
       <title>Rich Content</title>
-      <link>https://hugo-profile.netlify.app/blogs/rich-content/</link>
+      <link>https://stephaniecp.github.io/portfolio/blogs/rich-content/</link>
       <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
       
-      <guid>https://hugo-profile.netlify.app/blogs/rich-content/</guid>
+      <guid>https://stephaniecp.github.io/portfolio/blogs/rich-content/</guid>
       <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
 Gist Simple Shortcode {{&amp;lt; gist spf13 7896402 &amp;#34;img.html&amp;#34; &amp;gt;}} Twitter Simple Shortcode {{&amp;lt; tweet GoHugoIO 1315233626070503424 &amp;gt;}} Profile is a customizable single-page portfolio theme for Hugo featuring a contact form and blog. Made by @gurusabarishh.https://t.co/KwYcwfdy16
 &amp;mdash; GoHugo.io (@GoHugoIO) October 11, 2020 Vimeo Simple Shortcode {{&amp;lt; vimeo 146022717 &amp;gt;}} Youtube Simple Shortcode {{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}} Theme Custom Shortcodes These shortcodes are not Hugo built-ins, but are provided by the theme.</description>

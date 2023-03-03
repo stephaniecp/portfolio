@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Render Math With Mathjax on Steph&#39;s Profile</title>
-    <link>https://hugo-profile.netlify.app/blogs/math/</link>
+    <link>https://stephaniecp.github.io/portfolio/blogs/math/</link>
     <description>Recent content in Render Math With Mathjax on Steph&#39;s Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/blogs/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://stephaniecp.github.io/portfolio/blogs/math/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
