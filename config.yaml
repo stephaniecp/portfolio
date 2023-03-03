@@ -122,7 +122,7 @@ params:
     subtitle: "I break things to improve them"
     content: "I'm a QA Engineer (and my services are available at this time). Finding subtle and/or difficult to reproduce bugs is something that brings me joy. Trying to understand each issue in a way that makes them reproducible and understandable for the development team is my goal. This is my way of improving products and making the world a better place through better software.
       <br><br>"
-    image: /images/SCP_Profile_Pic.png #Edit in ./static/images
+    image: images/SCP_Profile_Pic.png #Edit in ./static/images
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
@@ -144,7 +144,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image:  /images/SCP_Profile_Pic.png #Edit in ./static/images
+    image:  images/SCP_Profile_Pic.png #Edit in ./static/images
     content: |-
       Growing up in French speaking Canada and having moved, with my sailboat, to the U.S. in my mid twenties, I'm fluent in French and English. Yes, this means that I do speak with a funny accent, but it also means that I can offer localization services if you or someone you know needs them ;) My background is varied, it includes lots of travels, lifeguard, nursing school, CNA work, tour guiding on bikes, commercial construction, web development and now QA related work for the past several years. I just had to try it all before I found something that worked for me!
       <br><br>
@@ -342,7 +342,7 @@ params:
     items:
       - title: Automated tests - solo project
         content: This is my final solo project for the DevMountain Software QA bootcamp. Testing was done on the <a href=http://vansaircraft.com>vansaircraft.com</a> website.<br/> See also my YouTube video walkthough of the project (https://bit.ly/steph-solo-capstone)
-        image: /images/projects/project1_solo.png
+        image: images/projects/project1_solo.png
         featured:
           name: View video
           link: https://bit.ly/steph-solo-capstone
@@ -358,7 +358,7 @@ params:
 
       - title: Automated tests - group project
         content: This was a project for the DevMountain Software QA bootcamp. Testing was done on a test website [https://automationintesting.online/](https://automationintesting.online/)
-        image: /images/projects/project2_group.png
+        image: images/projects/project2_group.png
         featured:
           name: 
           link: 
@@ -374,7 +374,7 @@ params:
 
       - title: Shift 2 Bikes
         content: Particiaped in the front end redesign of this open source project. The old PHP site was outdated and didn't work on mobile, this new site was primarely to resovle that. I learned Hugo SSG and came up with a theme to start and edited it to fit the site's needs. 
-        image: /images/projects/project3_shift.png
+        image: images/projects/project3_shift.png
         featured:
           name: View site
           link: https://www.shift2bikes.org/
@@ -390,7 +390,7 @@ params:
 
       - title: Travel blog
         content: A blog that I created during a two and a half fmonth sailing trip. I played witha few dfiferent APIs for this site. 
-        image: /images/projects/project4_travel_blog.png
+        image: images/projects/project4_travel_blog.png
         featured:
           name: View site
           link: https://stephaniecp.github.io/ahoy/
@@ -408,7 +408,7 @@ params:
 
       - title: My (This) Personal Site
         content: A site created using a Hugo theme as a portfolio site for my QA work. I altered some of the source code to fit my need for this project.
-        image: /images/projects/project5_portfolio.png
+        image: images/projects/project5_portfolio.png
         featured:
           name: 
           link: 
@@ -427,7 +427,7 @@ params:
 
       - title: Selling my boat
         content: This is a site that I created when I was in the process of selling my sailboat.
-        image: /images/projects/project6_selling_boat.png
+        image: images/projects/project6_selling_boat.png
         featured:
           name: View site (but the boat was sold)
           link: https://stephaniecp.github.io/strangewaves4sale/
