@@ -341,7 +341,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Automated tests - solo project
-        content: This is my final solo project for the DevMountain Software QA bootcamp. Testing was done on the <a href=http://vansaircraft.com>vansaircraft.com</a> website.<br/> See also my YouTube video walkthough of the project (https://bit.ly/steph-solo-capstone)
+        content: This is my final solo project for the DevMountain Software QA bootcamp. Testing was done on the <a href=http://vansaircraft.com>vansaircraft.com</a> website.<br/>
         image: images/projects/project1_solo.png
         featured:
           name: View video
@@ -447,13 +447,15 @@ params:
     enable: true
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-    email: # SCP - Need to encrypt email
-    btnName: Mail me
-    # formspree:
-    #   enable: true # `contact.email` value will be ignored
-    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
-    #   messageCaption: "Enter your message here"
+    btnName: Contact me
+    email: | 
+      <a href="javascript:window.location.href = 'mailto:' + ['stephanie.caron.pare+portfolio','gmail.com'].join('@')">stephanie.caron.pare+portfolio<!---->@<!---->gmail.com</a>
+    
+  # formspree:
+  #   enable: true # `contact.email` value will be ignored
+  #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+  #   emailCaption: "Enter your email address"
+  #   messageCaption: "Enter your message here"
 
   footer:
     recentPosts:
