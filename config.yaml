@@ -444,13 +444,12 @@ params:
   #Contact
   contact:
     enable: true
-    title: "Custom Name"
+    title: "Get in Touch"
     content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
     btnName: Contact me
-    email: | 
-      #stephanie(+)caron(dot)pare(at)gmail(dot)com
+    email: '["steph","anie",".caron",".pare@","gmai","l.c","om"]'
       
-     
+  # "steph","anie",".caron",".pare@","gmai","l.c","om"   
     
   # formspree:
   #   enable: true # `contact.email` value will be ignored
