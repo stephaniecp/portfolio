@@ -325,12 +325,12 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - title: SQL Hands-On Introduction
+        content: A LinkedIn Learning course to learn and practice the basics of SQL
+        url: https://www.linkedin.com/learning/certificates/cd4714eeb0de36afa8531070dea19f411f8993a01e0e46946cedce634c58fcb5
       - title: GitHub Arctic Code Vault Contributor
         content: Contributed to one of the one open source projects in the 2020 GitHub Archive Program (Shift 2 Bikes).
         url: https://github.com/stephaniecp?tab=achievements&achievement=arctic-code-vault-contributor
-      # - title: 
-      #   content: 
-      #   url: 
       # - title: 
       #   content: 
       #   url: 
