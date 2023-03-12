@@ -357,7 +357,7 @@ params:
             url: https://github.com/stephaniecp/steph-solo-project
 
       - title: Automated tests - group project
-        content: This was a project for the DevMountain Software QA bootcamp. Testing was done on a [test website](https://automationintesting.online/). My contributaion can be found under ["stephPageObject.ts"](https://github.com/stephaniecp/group-4-projectpt9/blob/main/stephPageObject.ts) and ["stephTest.test.ts"](https://github.com/stephaniecp/group-4-projectpt9/blob/main/stephTest.test.ts).
+        content: This was a project for the DevMountain Software QA bootcamp. Testing was done on a [test website](https://automationintesting.online/). My contribution can be found under ["stephPageObject.ts"](https://github.com/stephaniecp/group-4-projectpt9/blob/main/stephPageObject.ts) and ["stephTest.test.ts"](https://github.com/stephaniecp/group-4-projectpt9/blob/main/stephTest.test.ts).
         image: images/projects/project2_group.png
         # featured:
         #   name: 
