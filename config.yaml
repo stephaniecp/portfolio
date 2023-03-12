@@ -359,9 +359,9 @@ params:
       - title: Automated tests - group project
         content: This was a project for the DevMountain Software QA bootcamp. Testing was done on a [test website](https://automationintesting.online/). My contributaion can be found under ["stephPageObject.ts"](https://github.com/stephaniecp/group-4-projectpt9/blob/main/stephPageObject.ts) and ["stephTest.test.ts"](https://github.com/stephaniecp/group-4-projectpt9/blob/main/stephTest.test.ts).
         image: images/projects/project2_group.png
-        featured:
-          name: 
-          link: 
+        # featured:
+        #   name: 
+        #   link: 
         badges:
           - Automated QA
           - "Selenium"
@@ -409,9 +409,9 @@ params:
       - title: My (This) Personal Site
         content: A site created using a Hugo theme as a portfolio site for my QA work. I altered some of the source code to fit my need for this project.
         image: images/projects/project5_portfolio.png
-        featured:
-          name: 
-          link: 
+        # featured:
+        #   name: 
+        #   link: 
         badges:
           - Web dev.
           - "Hugo"
