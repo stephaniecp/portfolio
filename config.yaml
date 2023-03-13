@@ -388,8 +388,22 @@ params:
           - icon: fab fa-github
             url: https://github.com/shift-org/shift-docs
 
+      - title: SQL Practice with 2020 Census database
+        content: Using the data from the 2020 Census, I ran several SQL queries. I used Jupyter Notebook to be able to view the results of each queries directly in the same file where I wrote them.  
+        image: images/projects/project7_sql.png
+        # featured:
+        #   name: View site
+        #   link: https://www.shift2bikes.org/
+        badges:
+          - "SQL"
+          - "SQLite"
+          - "Jupyter Notebook"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/stephaniecp/census_games/blob/main/sqllite_jupyter/steph_sqllite_notebook.ipynb
+
       - title: Travel blog
-        content: A blog that I created during a two and a half fmonth sailing trip. I played witha few dfiferent APIs for this site. 
+        content: A blog that I created during a two and a half month sailing trip. I played with a few different APIs for this site. 
         image: images/projects/project4_travel_blog.png
         featured:
           name: View site
