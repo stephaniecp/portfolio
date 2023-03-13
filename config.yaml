@@ -144,7 +144,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image:  images/SCP_Profile_Pic.png #Edit in ./static/images
+    image:  images/SCP_Profile_2A.png #Edit in ./static/images
     content: |-
       Growing up in French speaking Canada and having moved, with my sailboat, to the U.S. in my mid twenties, I'm fluent in French and English. Yes, this means that I do speak with a funny accent, but it also means that I can offer localization services if you or someone you know needs them ;) My background is varied, it includes lots of travels, lifeguard, nursing school, CNA work, tour guiding on bikes, commercial construction, web development and now QA related work for the past several years. I just had to try it all before I found something that worked for me!
       <br><br>
