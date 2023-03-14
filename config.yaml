@@ -54,8 +54,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Steph's Portfolio"
+  description: This is my personal QA Portfolio where I highlight my experieces, education, and projects that I've worked on. 
   staticPath: "/portfolio"  # The path to serve the static files from
   favicon: "images/portfolio-logo-dark-theme.png"
 
