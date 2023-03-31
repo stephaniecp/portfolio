@@ -396,7 +396,7 @@ params:
         image: images/projects/project7_sql.png
         # featured:
         #   name: View site
-        #   link: https://www.shift2bikes.org/
+        #   link: 
         badges:
           - "SQL"
           - "SQLite"
@@ -404,6 +404,39 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/stephaniecp/census_games/blob/main/sqllite_jupyter/steph_sqllite_notebook.ipynb
+
+      - title: Daimler Truck - QA Practice
+        content:  This is a test project that I created to practice my QA skills. Testing was done on the <a href=https://www.daimler-trucksnorthamerica.com/>daimler-trucksnorthamerica.com</a> website.<br/> While testing, I found one bug a created a report, <a href=https://github.com/stephaniecp/DT-QA/blob/main/bugReports/contactPageError.md>view here</a>. Follow the steps in the <a href=https://github.com/stephaniecp/DT-QA/blob/main/bugReports/contactPageError.md>README.md</a> to view the latest test results. 
+        image: images/projects/project_daimler_truck_na2.png
+        # featured:
+        #   name: View site
+        #   link: 
+        badges:
+          - "Automated QA"
+          - "Continuous Integration"
+          - "Selenium"
+          - "Jest"
+          - "TypeScript"
+          - "POM"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/stephaniecp/DT-QA
+
+      # - title: First Things First - QA Practice
+      #   content:  
+      #   image: images/projects/project_ftf.png
+      #   # featured:
+      #   #   name: View site
+      #   #   link: 
+      #   badges:
+      #     - "Automated QA"
+      #     - "Selenium"
+      #     - "Jest"
+      #     - "TypeScript"
+      #     - "POM"
+      #   links:
+      #     - icon: fab fa-github
+      #       url: https://github.com/stephaniecp/HNW-automated-QA/tree/main/FTF
 
       - title: Travel blog
         content: A blog that I created during a two and a half month sailing trip. I played with a few different APIs for this site. 
