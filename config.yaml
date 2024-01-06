@@ -170,6 +170,22 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+     - job: "QA Analyst - Contract via Dexian"
+        company: "Daimler" # SCP Company should be moved to top of section later
+        companyUrl: "https://northamerica.daimlertruck.com/"
+        date: "Jul 2023 - November 2023"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        content: |
+          - Created and documented a QA strategy for Daimler’s internal apps to define the QA process from end to end. The goal was to have a standardized QA process to be duplicated across other apps and ensure consistent quality. 
+          - Created regressions test suites for the first pilot app. Those included customer and internal/admin facing UI testing as well as Rest API endpoint validation testing using Postman.
+          - Learned Java, TestNG and created unit tests using Selenium and Eclipse IDE to be used in continuous integration.
+          - Communicated with the client’s teams on a regular basis to define the scope of work and understand the app.
+        # date2: ""
+        # content2: |
+
       - job: "QA Analyst"
         company: "Harmonic NW" # SCP Company should be moved to top of section later
         companyUrl: "https://harmonicnw.com/"
@@ -182,9 +198,6 @@ params:
           - Conducting manual QA on web projects including <a href=https://gamerdays.intel.com/>Intel Gamer Days</a>, <a href=https://fortgeorgebrewery.com/>Fort George Brewery</a> and <a href=https://pacifictrail.com/>Pacific Trail</a> (apparel brand owned by Columbia Sportswear) and performing ad hoc/exploratory testing across many devices.</br> 
           - Check in with the development team to define the scope of testing for each project and ensure adequate test coverage.</br>
           - Filing bugs in various ticket tracking software (Jira, Shortcut, Basecamp) and maintaining tickets throughout their life cycle to ensure fixes are working and to prevent bugs from affecting users.
-        # job2: ""
-        # date2: ""
-        # content2: |
 
       - job: "QA Analyst"
         company: "Freelance"
@@ -244,14 +257,15 @@ params:
           - Assured the quality of existing translations on projects aimed at the French-Canadian locale.
           - Filed bugs using the client's preferred ticket tracking system and followed up as needed.
 
-      - job: "Web Developer"
-        company: "Artspry"
-        companyUrl: ""
-        date: "Sep 2017 - Nov 2017"
-        content: |
-          - Built a website for a talent booking agency from scratch and developed it to match a predetermined design.
-          - Developed the site using the client's requested technologies: HTML, SCSS, Bootstrap and Modx CMS. 
-          - Learned SCSS and Modx CMS in order to develop this site per client's request.
+      # # Commented out on 1/5/24 as this experience is less relevant now that I added my last role with Daimler
+      # - job: "Web Developer"
+      #   company: "Artspry"
+      #   companyUrl: ""
+      #   date: "Sep 2017 - Nov 2017"
+      #   content: |
+      #     - Built a website for a talent booking agency from scratch and developed it to match a predetermined design.
+      #     - Developed the site using the client's requested technologies: HTML, SCSS, Bootstrap and Modx CMS. 
+      #     - Learned SCSS and Modx CMS in order to develop this site per client's request.
 
       - job: "QA Tester"
         company: "Swift Forge"
@@ -334,7 +348,10 @@ params:
       - title: Scrum - The Basics
         content: A LinkedIn Learning course to refresh my knowledge of the Scrum principles
         url: https://www.linkedin.com/learning/certificates/eacf167293002b46462b41593155ff71dc222006c6f58547a3e23d1bfebd7cb5
-      # - title: 
+      - title: Women Who Code App Deploy Hackathon 2023
+        content: Hacketon where I created an Android app (using Kotlin/Gradle and two Google APIs). The GitHub repository for this project can be found <a href=https://github.com/stephaniecp/WWCodeAppDeployHackathon>here</a>. 
+        url: https://www.credential.net/5d122c93-7c43-4b7a-b67c-723fd50dafa7#gs.376dud
+        # - title: 
       #   content: 
       #   url: 
 
