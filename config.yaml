@@ -178,6 +178,9 @@ params:
           enable: false
           name: "View the project"
           url: "https://example.com"
+        info:
+          enable: false
+          content: 
         content: |
           - Created and documented a QA strategy for Daimler’s internal apps to define the QA process from end to end. The goal was to have a standardized QA process to be duplicated across other apps and ensure consistent quality. 
           - Created regressions test suites for the first pilot app. Those included customer and internal/admin facing UI testing as well as Rest API endpoint validation testing using Postman.
@@ -189,11 +192,14 @@ params:
       - job: "QA Analyst"
         company: "Harmonic NW" # SCP Company should be moved to top of section later
         companyUrl: "https://harmonicnw.com/"
-        date: "Jan 2021 - present"
+        date: "Jan 2021 - Jun 2023"
         featuredLink:
           enable: false
           name: "View the project"
           url: "https://example.com"
+        info:
+          enable: false
+          content: 
         content: |
           - Conducting manual QA on web projects including <a href=https://gamerdays.intel.com/>Intel Gamer Days</a>, <a href=https://fortgeorgebrewery.com/>Fort George Brewery</a> and <a href=https://pacifictrail.com/>Pacific Trail</a> (apparel brand owned by Columbia Sportswear) and performing ad hoc/exploratory testing across many devices.</br> 
           - Check in with the development team to define the scope of testing for each project and ensure adequate test coverage.</br>
@@ -207,7 +213,7 @@ params:
           enable: false
           url: "https://example.com"
         info:
-          enable: true
+          enable: false
           content: I worked as a software developer for more than one year in Amazon. 
         content: |
           - Conducted manual QA on various projects to ensure the clients' sites and apps are working as expected between updates and before launches.
@@ -219,7 +225,7 @@ params:
         companyUrl: "https://plusqa.com/"
         date: "Apr 2019 - Oct 2019"
         info:
-          enable: true
+          enable: false
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -242,6 +248,9 @@ params:
         featuredLink:
           enable: false
           url: ""
+        info:
+          enable: false
+          content: 
         content: |
           - Contributed to the front-end rebuild of the non-profit's website using HTML, CSS, JS,  Hugo SSG and Git.
           - Selected the theme that was used for the redesign (which is still on the current live site) and adapted it by personalizing the Static Site Generator (Hugo)/CSS to match the organization's colors and purpose. 
@@ -251,6 +260,12 @@ params:
         company: "WeLocalize"
         companyUrl: ""
         date: "Mar 2018 - Jun 2018"
+        featuredLink:
+          enable: false
+          url: ""
+        info:
+          enable: false
+          content: 
         content: |
           - Conducted manual software QA and linguistics QA for companies that support international product and cross-border commercial operations, including: Apple, Square and Ikea. 
           - Executed test cases using project management tools (TestRail) across devices to ensure desired test coverage. 
@@ -262,6 +277,12 @@ params:
       #   company: "Artspry"
       #   companyUrl: ""
       #   date: "Sep 2017 - Nov 2017"
+      #   featuredLink:
+      #       enable: false
+      #       url: ""
+      #     info:
+      #       enable: false
+      #       content: 
       #   content: |
       #     - Built a website for a talent booking agency from scratch and developed it to match a predetermined design.
       #     - Developed the site using the client's requested technologies: HTML, SCSS, Bootstrap and Modx CMS. 
@@ -271,6 +292,12 @@ params:
         company: "Swift Forge"
         companyUrl: "https://swiftforgesoftware.com/"
         date: "Mar 2-17 - Nov 2017"
+        featuredLink:
+          enable: false
+          url: ""
+        info:
+          enable: false
+          content: 
         content: |
           - Wrote a test plan after discussing the testing scope with the developers to ensure that each feature that needed to be tested would be covered.
           - Executed the tests and reported bugs to assure the quality of a web app I worked on.
