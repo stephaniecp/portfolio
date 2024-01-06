@@ -208,7 +208,7 @@ params:
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I worked as a software developer for more than one year in Amazon. 
         content: |
           - Conducted manual QA on various projects to ensure the clients' sites and apps are working as expected between updates and before launches.
           - Executed test cases and performed ad hoc/exploratory styles testing, depending on the clients' needs, across testing devices (Android phone, iPhone, iPad, Windows and Mac laptop) for complete test coverage.  
