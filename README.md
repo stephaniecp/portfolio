@@ -3,7 +3,7 @@
 ## Regular
 ### Running Hugo server
 1. Run command: hugo server
-2. Navigate to http://localhost:1313/
+2. Navigate to http://localhost:1313/portfolio/
 ### Running Hugo server AND show draft pages
 1. Run command: hugo server -D
 ### View live hosted site (via GitHub Pages/Actions)

@@ -170,7 +170,8 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-     - job: "QA Analyst - Contract via Dexian"
+
+      - job: "QA Analyst - Contract via Dexian"
         company: "Daimler" # SCP Company should be moved to top of section later
         companyUrl: "https://northamerica.daimlertruck.com/"
         date: "Jul 2023 - November 2023"
@@ -376,7 +377,8 @@ params:
         content: A LinkedIn Learning course to refresh my knowledge of the Scrum principles
         url: https://www.linkedin.com/learning/certificates/eacf167293002b46462b41593155ff71dc222006c6f58547a3e23d1bfebd7cb5
       - title: Women Who Code App Deploy Hackathon 2023
-        content: Hacketon where I created an Android app (using Kotlin/Gradle and two Google APIs). The GitHub repository for this project can be found <a href=https://github.com/stephaniecp/WWCodeAppDeployHackathon>here</a>. 
+        content: Hacketon where I created an Android app (using Kotlin/Gradle and two Google APIs). 
+        # The GitHub repository for this project can be found <a href=https://github.com/stephaniecp/WWCodeAppDeployHackathon>here</a>. 
         url: https://www.credential.net/5d122c93-7c43-4b7a-b67c-723fd50dafa7#gs.376dud
         # - title: 
       #   content: 
