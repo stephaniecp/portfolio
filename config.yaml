@@ -184,10 +184,10 @@ params:
           enable: false
           content:
         content: |
-          - Created and documented a QA strategy for Daimle’s internal apps to define the QA process from end to end. The goal was to have a standardized QA process to be duplicated across other apps and ensure consistent quality.
+          - Created and documented a QA strategy for Daimler internal apps to define the QA process from end to end. The goal was to have a standardized QA process to be duplicated across other apps and ensure consistent quality.
           - Created regressions test suites for the first pilot app. Those included customer and internal/admin facing UI testing as well as Rest API endpoint validation testing using Postman.
           - Learned Java, TestNG and created unit tests using Selenium and Eclipse IDE to be used in continuous integration.
-          - Communicated with the client’s teams on a regular basis to define the scope of work and understand the app.
+          - Communicated with the client side teams on a regular basis to define the scope of work and understand the app.
         # date2: ""
         # content2: |
 
